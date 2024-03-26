@@ -1,1 +1,1 @@
-## End to End Maxhine Learning Projects 
+## End to End Machine Learning Projects 
